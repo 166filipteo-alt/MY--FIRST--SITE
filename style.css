@@ -3,6 +3,11 @@ body{
   font-family:Roboto Slab;
 
 }
+
+img {
+  width: 300px;
+}
+
 h1{
 background-color:#808080;
 text-align:center;
